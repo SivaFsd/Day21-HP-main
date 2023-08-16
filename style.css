@@ -1,0 +1,51 @@
+body{
+
+margin: 3%
+
+}
+
+body{
+
+    background-color: rgb(44, 103, 83);
+    display : grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: auto;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    gap: 20px;
+
+    
+    
+
+}
+
+.card{
+
+    height: 250px;
+    width: 200px;
+    background-color: rgb(41, 168, 72);
+    align-items: center;   
+
+
+
+}
+
+/* .card-header
+{
+    text-align: center;
+} */
+
+.flag
+{
+
+    height: 100px;
+    width : 75px
+
+}
+
+span{
+
+    font-weight: bold;
+}
